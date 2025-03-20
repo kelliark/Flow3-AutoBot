@@ -44,7 +44,7 @@ One referral code per line:
 referral_code_1
 referral_code_2
 ```
-### Proxy files (refproxies.txt, autotd.proxies, farmproxies.txt)
+### Proxy files (refproxies.txt, tdproxies.txt, farmproxies.txt)
 One proxy per line:
 ```
 ip:port
